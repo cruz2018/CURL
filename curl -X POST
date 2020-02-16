@@ -1,2 +1,0 @@
-curl -X POST "https://petstore.swagger.io/v2/store/order" -H "accept: application/json" -H "Content-Type: application/json" 
--d "{ \"id\": 0, \"petId\": 0, \"quantity\": 0\"shipDate\": \"2020-01-07T10:36:55.132Z\", \"status\": \"placed\", \"complete\": true}"
